@@ -85,8 +85,8 @@ body > .page > section {
 }
 
 #app4 .circle{
-    width: 30vw;
-    height: 30vw;
+    width: 15vw;
+    height: 15vw;
     border-radius: 50%;
     border: 1px solid red;
 }
@@ -95,4 +95,4 @@ body > .page > section {
     animation: change 1s infinite alternate linear;
 }
 
-/*# sourceMappingURL=main.4c876490.css.map */
+/*# sourceMappingURL=main.3d0ea358.css.map */
